@@ -1,0 +1,6 @@
+export {default as Hoja} from './HojaPersonaje.js'
+export {default as Modal} from './Modal.js'
+export {default as Prompt} from './Input.js'
+export {default as Alerta} from './Alerta.js'
+export {default as Eliminar} from './Eliminar.js'
+export {default as Icono} from './Icono.js'
